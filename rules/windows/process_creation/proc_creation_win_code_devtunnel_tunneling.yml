@@ -1,6 +1,6 @@
 title: Visual Studio Code/DevTunnel Abuse Detection
 id: 12345678-1234-5678-9123-456789abcdef
-status: experimental
+status: test
 description: |
     Detects suspicious usage of Visual Studio Code's tunneling features, often abused in espionage campaigns.
 References:

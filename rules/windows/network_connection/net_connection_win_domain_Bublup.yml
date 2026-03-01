@@ -1,6 +1,6 @@
 title: Potential Data Exfiltration to Bublup.com
 id: 61b9d488-49f6-44e5-a9fa-d0a4dfdbfd85
-status: experimental
+status: test
 description: Detects network connections to bublup.com, a legitimate cloud storage platform abused by threat actors (e.g., BlackSuit ransomware) for data exfiltration.
 references:
   - https://thedfirreport.com/2025/03/31/fake-zoom-ends-in-blacksuit-ransomware/
